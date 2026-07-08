@@ -1,0 +1,11 @@
+{
+	"name": "大型铬墙",
+	"type": "Wall",
+	"health": 6200,
+	"size": 2,
+	"requirements": [
+		"铬/30"
+	],
+	"category": "defense",
+	"research": "铬墙"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "霜石墙",
+	"type": "Wall",
+	"health": 400,
+	"size": 1,
+	"requirements": [
+		"霜石/6"
+	],
+	"category": "defense",
+	"research": "跳跃"
+}

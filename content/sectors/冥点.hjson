@@ -1,0 +1,6 @@
+planet: 埃塞
+description: "我们发现了这个星球\n占领它"
+sector: 27
+research: 始发
+difficulty: 1
+alwaysUnlocked: true

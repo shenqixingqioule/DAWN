@@ -1,0 +1,14 @@
+planet: 埃塞
+sector: 170
+description: "这是一个小型前哨站，后面就是碎冰谷，继续前进"
+research: {
+  parent: "风暴谷"
+	 objectives: [
+	    {
+      type: SectorComplete
+     		preset: "风暴谷"
+		   }
+ 	]
+}
+difficulty: 4
+alwaysUnlocked: false

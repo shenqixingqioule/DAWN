@@ -1,0 +1,11 @@
+{
+	"name": "废钢墙",
+	"type": "Wall",
+	"health": 900,
+	"size": 1,
+	"requirements": [
+		"废钢/6"
+	],
+	"category": "defense",
+	"research": "大型霜石墙"
+}

@@ -1,0 +1,34 @@
+{
+    "type": "UnitFactory",
+    "name": "陆军制造厂",
+    "localizedName": "陆军制造厂",
+    "description": "可生产陆军",
+    "size": 3,
+    "health": 2000,
+    "consumes":{
+      "power":2
+    },
+    "plans": [
+        {
+            "unit": "坦1",
+            "time": 900,
+            "requirements": [
+                "霜石/70"
+            ]
+        },
+        {
+            "unit": "爬1",
+            "time": 1500,
+            "requirements": [
+                "霜石/90",
+                "废钢/70",
+                "铬/45"
+            ]
+        }
+      ],
+    "requirements": [
+      {"item": "霜石", "amount": 50}
+    ],
+    "category": "units",
+    "research":"始发"
+}

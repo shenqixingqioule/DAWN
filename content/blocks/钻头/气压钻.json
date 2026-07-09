@@ -1,0 +1,20 @@
+{
+	"name": "气压钻",
+	"type": "Drill",
+	"size": 3,
+	"health": 320,
+	"tier": 3,
+	"drillTime": 300,
+	"canOverdrive": true,
+	"warmupSpeed": 0.02,
+	"drillEffect": "mineBig",
+	"updateEffect": "mineBig",
+	"rotateSpeed": 2,
+	"drawMineItem": false,
+	"itemCapacity": 20,
+	"requirements": [
+		"霜石/20"
+	],
+	"category": "production",
+	"research": "始发"
+}

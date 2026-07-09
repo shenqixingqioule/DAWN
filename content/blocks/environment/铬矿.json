@@ -1,0 +1,11 @@
+{
+    "name": "铬矿",
+    "type": "OreBlock",
+    "playerUnmineable": false,
+    "itemDrop": "铬",
+    "mapColor": "7D8299FF",
+    "useColor": true,
+    "oreDefault": true,
+    "oreThreshold": 1,
+    "oreScale": 20
+}

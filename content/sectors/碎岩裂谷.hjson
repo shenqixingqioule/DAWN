@@ -1,0 +1,18 @@
+captureWave: 25
+planet: 埃塞
+sector: 171
+description: "我们在一处丘山之中发现了一些新的矿物，但敌人也发现了我们\n
+敌人派出了一些小型军队进行攻\n\n
+挖掘铬矿研究炮塔并防御敌方进攻\n\n
+                                                                                        ——by：白义F-061"
+research: {
+  parent: "7域军事平台"
+    objectives: [
+      {
+        type: SectorComplete
+        preset: "7域军事平台"
+      }
+    ]
+}
+difficulty: 4
+alwaysUnlocked: false

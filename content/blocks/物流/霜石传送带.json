@@ -1,0 +1,12 @@
+{
+	"type": "Conveyor",
+	"name": "霜石传送带",
+	"health": 75,
+	"requirements": [
+		"霜石/2"
+	],
+	"category": "distribution",
+	"research":"始发",
+	"speed": 0.1,
+	"displayedSpeed": 15
+}

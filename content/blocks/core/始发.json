@@ -1,0 +1,24 @@
+{
+    "type": "CoreBlock",
+    "buildVisibility": "shown",
+    "name": "始发",
+    "category": "effect",
+    "description": "基础的核心",
+    "alwaysUnlocked": true,
+    "size": 3,
+    "health": 3200,
+    "armor": 2,
+    "itemCapacity": 8000,
+    "hasItems": true,
+    "unitCapModifier": 12,
+    "isFirstTier": true,
+    "unitType": "原点",
+    "requirements": [
+        "霜石/2000"
+    ],
+    "research": {
+    "root": true,
+    "name": "始发",
+    "planet": "埃塞"
+    }
+}

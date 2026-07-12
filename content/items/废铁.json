@@ -1,0 +1,13 @@
+{
+	"type": "items",
+	"name": "废铁",
+	"description": "一种在飞船遗迹周围的矿物",
+	"color": "36363CFF",
+	"cost": 1,
+	"hardness": 0,
+	"explosiveness": 0,
+	"radioactivity": 0,
+	"charge": 0,
+	"flammability": 0,
+	"research": "霜石"
+}

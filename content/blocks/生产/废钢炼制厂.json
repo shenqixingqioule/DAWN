@@ -1,0 +1,39 @@
+{
+	"type": "GenericCrafter",
+	"name": "废钢炼制厂",
+	"description": "将废铁压缩成废钢",
+	"health": 540,
+	"outputItem": "废钢/1",
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"craftTime": 45,
+	"itemCapacity": 30,
+	"drawer": {
+		"type": "DrawMulti",
+		"drawers": [
+			"DrawDefault",
+			{
+				"type": "DrawFlame",
+				"flameRadius": 0,
+				"flameRadiusIn": 0,
+				"flameRadiusMag": 0,
+				"flameRadiusInMag": 0,
+				"flameColor": "FF5E15"
+			}
+		]
+	},
+	"consumes": {
+		"power": 2,
+		"items": [
+			"废铁/3"
+		]
+	},
+	"requirements": [
+        "霜石/25"
+	],
+	"category": "crafting",
+	"ambientSound": "smelter",
+	"research": "气压钻"
+}

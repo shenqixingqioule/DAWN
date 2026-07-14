@@ -1,7 +1,7 @@
 {
 	"type": "items",
 	"name": "霜石",
-	"description": "一种由寒冰淬炼的晶体",
+	"description": "一种在极度寒冷之下的矿物，是埃塞的基础矿物",
 	"color": "99E7FFFF",
 	"cost": 1,
 	"hardness": 0,

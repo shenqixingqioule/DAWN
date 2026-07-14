@@ -3,7 +3,7 @@
     "buildVisibility": "shown",
     "name": "始发",
     "category": "effect",
-    "description": "基础的核心",
+    "description": "极耐寒的核心，可以在寒冷的环境下运行",
     "alwaysUnlocked": true,
     "size": 3,
     "health": 3200,
@@ -17,8 +17,8 @@
         "霜石/2000"
     ],
     "research": {
-    "root": true,
-    "name": "始发",
-    "planet": "埃塞"
+        "root": true,
+        "name": "始发",
+        "planet": "埃塞"
     }
 }

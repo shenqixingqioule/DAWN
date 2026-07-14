@@ -1,12 +1,16 @@
 {
 	"type": "PowerNode",
 	"name": "激光点",
+	"description": "可输送电力",
 	"health": 150,
 	"size": 1,
 	"maxNodes": 10,
 	"laserRange": 5,
 	"laserScale": 0.5,
 	"research": "光棱电力板",
+	"researchCost": [
+  		"霜石/10"
+	],
 	"requirements": [
         "霜石/2"
 	],

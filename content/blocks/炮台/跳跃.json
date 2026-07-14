@@ -1,6 +1,7 @@
 {
 	"type": "ItemTurret",
 	"name": "跳跃",
+	"description": "向敌方射出交叉的炮弹",
 	"health": 500,
 	"size": 1,
 	"reload": 3,
@@ -37,6 +38,9 @@
 			"ammoMultiplier": 1
 		}
     },
+	"researchCost": [
+  		"霜石/80"
+	],
 	"requirements": [
 		"霜石/20"
 	],

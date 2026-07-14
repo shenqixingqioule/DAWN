@@ -55,6 +55,10 @@
 			"ammoMultiplier": 1
 		}
     },
+	"researchCost": [
+  		"霜石/140",
+		"废钢/40"
+	],
 	"requirements": [
 		"霜石/35",
         "废钢/10"

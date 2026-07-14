@@ -1,6 +1,6 @@
 {  
     "name": "破晓",
-    "description": "alpha-0-0 DAWN测试版开始！\nalpha-0-1 增加两张新地图、单位、墙、核心、矿物等\nalpha-0-2 重制战役地图，新增单位、液体等\n\n致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图&剧情",  
+    "description": "alpha-0-0 DAWN测试版开始！\nalpha-0-1 增加两张新地图、单位、墙、核心、矿物等\nalpha-0-2 重制战役地图，新增单位、液体等\n\n[red[]]请在游玩此MOD前开启双击采矿！[white[]]\n\n致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图&剧情&部分简介",  
     "minGameVersion": "157.3",  
     "author": "神奇星球了",
     "version": "alpha-0-2"

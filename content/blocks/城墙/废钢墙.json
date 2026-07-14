@@ -1,8 +1,12 @@
 {
 	"name": "废钢墙",
 	"type": "Wall",
+	"description": "保护己方建筑，挡下敌方炮弹",
 	"health": 900,
 	"size": 1,
+	"researchCost": [
+  		"废钢/30"
+	],
 	"requirements": [
 		"废钢/6"
 	],

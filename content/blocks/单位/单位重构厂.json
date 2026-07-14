@@ -1,14 +1,15 @@
 {
 	"type": "Reconstructor",
 	"name": "单位重构厂",
+	"description": "升级输入的单位",
 	"size":3,
 	"health": 3000,
 	"consumes": {
 		"power": 4,
 		"items": {
 			"items": [
-				"废钢/120",
-				"铬/65"
+				"废钢/160",
+				"铬/100"
 			]
 		}
 	},
@@ -18,6 +19,11 @@
 		["爬1","爬2"]
 	],
 	"constructTime": 1200,
+	"researchCost": [
+  		"霜石/2000",
+		"废钢/1500",
+		"铬/1000"
+	],
 	"requirements": [
 		"霜石/450",
 		"废钢/300",

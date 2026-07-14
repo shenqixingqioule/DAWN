@@ -2,7 +2,7 @@
     "type": "UnitFactory",
     "name": "陆军制造厂",
     "localizedName": "陆军制造厂",
-    "description": "可生产陆军",
+    "description": "可构建陆军",
     "size": 3,
     "health": 2000,
     "consumes":{
@@ -26,6 +26,9 @@
             ]
         }
       ],
+    "researchCost": [
+  		"霜石/250"
+	],
     "requirements": [
       {"item": "霜石", "amount": 50}
     ],

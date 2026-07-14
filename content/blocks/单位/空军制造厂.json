@@ -2,7 +2,7 @@
     "type": "UnitFactory",
     "name": "空军制造厂",
     "localizedName": "空军制造厂",
-    "description": "可生产空军",
+    "description": "可构建空军",
     "size": 3,
     "health": 2000,
     "consumes":{
@@ -18,6 +18,10 @@
             ]
         }
     ],
+	"researchCost": [
+  		"霜石/250",
+        "废钢/60"
+	],
     "requirements": [
       {"item": "霜石", "amount": 50},
       {"item": "废钢", "amount": 15}

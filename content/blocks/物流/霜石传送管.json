@@ -1,0 +1,15 @@
+{
+	"type": "Duct",
+	"name": "霜石传送管",
+	"description": "向前运输物品",
+	"health": 80,
+	"researchCost": [
+  		"霜石/15"
+	],
+	"requirements": [
+		"霜石/2"
+	],
+	"bridgeReplacement": "霜石传送桥",
+	"research": "始发",
+	"speed": 7.5
+}

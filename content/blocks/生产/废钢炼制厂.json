@@ -30,6 +30,9 @@
 			"废铁/3"
 		]
 	},
+	"researchCost": [
+  		"霜石/150"
+	],
 	"requirements": [
         "霜石/25"
 	],

@@ -1,8 +1,12 @@
 {
 	"type": "SolarGenerator",
 	"name": "光棱电力板",
+	"description": "通过太阳能产生电量",
 	"size": 2,
 	"health": 350,
+	"researchCost": [
+  		"霜石/30"
+	],
 	"requirements": [
 		"霜石/10"
 	],

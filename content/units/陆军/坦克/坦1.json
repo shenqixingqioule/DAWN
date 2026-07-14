@@ -1,6 +1,7 @@
 {
 	"type": "tank",
 	"name": "冲击",
+	"description":"快速移动并发射炮弹对敌人造成伤害",
 	"squareShape": true,
 	"omniMovement": false,
 	"rotateMoveFirst": false,

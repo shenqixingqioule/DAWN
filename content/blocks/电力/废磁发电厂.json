@@ -13,6 +13,10 @@
 		"items": ["废铁/1"]
 	},
 	"buildCostMultiplier": 0.95,
+	"researchCost": [
+  		"霜石/200",
+		"废钢/120"
+	],
 	"requirements": [
         "霜石/70",
         "废钢/40"
@@ -20,5 +24,5 @@
 	"ambientSound": "smelter",
 	"ambientSoundVolume": 0.06,
 	"category": "power",
-	"research": "光棱电力板"
+	"research": "激光点"
 }

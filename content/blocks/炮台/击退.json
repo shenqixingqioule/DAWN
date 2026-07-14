@@ -114,6 +114,10 @@
 			"smokeEffect": "none"
 		}
     },
+	"researchCost": [
+  		"霜石/200",
+		"废钢/150"
+	],
 	"requirements": [
 		"霜石/70",
 		"废钢/50"

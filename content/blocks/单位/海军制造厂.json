@@ -2,7 +2,7 @@
     "type": "UnitFactory",
     "name": "海军制造厂",
     "localizedName": "海军制造厂",
-    "description": "可生产海军",
+    "description": "可构建海军",
     "size": 3,
     "health": 2000,
     "consumes":{
@@ -19,10 +19,15 @@
             ]
         }
       ],
+	  "researchCost": [
+        "霜石/300",
+        "废钢/150",
+        "铬/120"
+	  ],
     "requirements": [
-      {"item": "霜石", "amount": 70},
-      {"item": "废钢", "amount": 40},
-      {"item": "铬", "amount": 50}
+        {"item": "霜石", "amount": 70},
+        {"item": "废钢", "amount": 40},
+        {"item": "铬", "amount": 50}
     ],
     "category": "units",
     "research":"空军制造厂"

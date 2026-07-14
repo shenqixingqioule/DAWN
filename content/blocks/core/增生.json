@@ -13,6 +13,11 @@
     "unitCapModifier": 24,
     "isFirstTier": true,
     "unitType": "原点",
+	"researchCost": [
+  		"霜石/20000",
+        "废钢/17000",
+        "铬/15000"
+	],
     "requirements": [
         "霜石/6500",
         "废钢/5000",

@@ -1,0 +1,24 @@
+{
+	"type": "Pump",
+	"name": "气压泵",
+	"size": 3,
+	"health": 400,
+	"liquidCapacity": 100,
+	"hasLiquids": true,
+	"pumpAmount": 0.05,
+	"consumes": {
+	    "power": 0.5
+	},
+	"researchCost": [
+  		"霜石/300",
+		"废钢/250",
+        "铬/150"
+	],
+	"requirements": [
+  		"霜石/80",
+		"废钢/60",
+        "铬/40"
+	],
+	"category": "liquid",
+	"research": "气压钻"
+}

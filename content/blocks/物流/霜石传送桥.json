@@ -9,10 +9,14 @@
 	"arrowOffset": 4,
 	"arrowTimeScl": 12,
 	"bridgeWidth": 8,
+	"researchCost": [
+  		"霜石/100",
+		"废钢/80"
+	],
 	"requirements": [
         "霜石/14",
         "废钢/8"
 	],
 	"category": "distribution",	
-	"research": "霜石传送带"
+	"research": "霜石传送管"
 }

@@ -1,6 +1,7 @@
 {
 	"name": "气压钻",
 	"type": "Drill",
+	"description": "通过大气压强以挖掘矿物",
 	"size": 3,
 	"health": 320,
 	"tier": 3,
@@ -12,6 +13,9 @@
 	"rotateSpeed": 2,
 	"drawMineItem": false,
 	"itemCapacity": 20,
+	"researchCost": [
+  		"霜石/60"
+	],
 	"requirements": [
 		"霜石/20"
 	],

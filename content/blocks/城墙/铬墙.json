@@ -1,8 +1,12 @@
 {
 	"name": "铬墙",
 	"type": "Wall",
+	"description": "保护己方建筑，挡下敌方炮弹",
 	"health": 1500,
 	"size": 1,
+	"researchCost": [
+  		"铬/30"
+	],
 	"requirements": [
 		"铬/6"
 	],

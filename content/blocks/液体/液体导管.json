@@ -1,0 +1,13 @@
+{
+	"type": "Conduit",
+	"name": "液体导管",
+	"health": 100,
+	"liquidCapacity": 5,
+	"requirements": [
+        "霜石/2",
+        "废钢/2",
+        "铬/1"
+	],
+	"category": "liquid",
+	"research": "气压泵"
+}

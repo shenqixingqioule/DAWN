@@ -1,8 +1,12 @@
 {
 	"name": "大型霜石墙",
 	"type": "Wall",
+	"description": "保护己方建筑，挡下敌方炮弹",
 	"health": 1400,
 	"size": 2,
+	"researchCost": [
+  		"霜石/200"
+	],
 	"requirements": [
 		"霜石/30"
 	],

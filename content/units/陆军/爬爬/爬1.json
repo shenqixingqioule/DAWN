@@ -9,7 +9,7 @@
     "health": 600,
     "legCount": 4,
     "legGroupSize": 2,
-    "legLength": 10,
+    "legLength": 12,
     "legSpeed": 0.1,
     "legForwardScl": 0.75,
     "legBaseOffset": 1,

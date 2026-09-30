@@ -1,0 +1,13 @@
+planet: 埃塞
+sector: 83
+research: {
+    parent: "碎岩裂谷"
+	objectives: [
+	    {
+        	type: SectorComplete
+	 		preset: "碎岩裂谷"
+		}
+ 	]
+}
+difficulty: 4
+alwaysUnlocked: false

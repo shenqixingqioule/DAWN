@@ -1,7 +1,6 @@
 {
 	"type": "items",
 	"name": "铬",
-	"description": "因地壳挤压而产生的矿物",
 	"color": "9398B4FF",
 	"cost": 1,
 	"hardness": 0,

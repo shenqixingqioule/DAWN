@@ -1,0 +1,41 @@
+{
+    "type": "missile",
+    "template": "MissileUnitType",
+    "name": "海攻T1导弹",
+    "health": 450,
+    "speed": 4,
+    "rotateSpeed": 5,
+    "lifetime": 115,
+    "hidden": true,
+    "missileAccelTime": 30,
+    "loopSoundVolume": 0.05,
+    "homingDelay": 20,
+    "hitSize": 1,
+    "trailLength": 5,
+	"engineOffset": 4.5,
+	"engineSize": 2,
+    "maxRange": 25,
+    "weapons": [
+        {
+            "name": "none",
+            "reload": 30,
+            "x": 0,
+            "y": 0,
+            "mirror": false,
+            "rotate": true,
+            "shake": 3,
+            "shootOnDeath": true,
+            "shootCone": 360,
+            "bullet": {
+                "killShooter": true,
+                "collides": false,
+                "instantDisappear": true,
+                "hitSound": "titanExplosion",
+                "splashDamage": 45,
+                "splashDamageRadius": 40,
+                "hitShake": 2,
+                "hitColor": "F200FFFF"
+            }
+        }
+    ]
+}

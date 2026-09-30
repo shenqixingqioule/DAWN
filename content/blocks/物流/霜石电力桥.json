@@ -1,0 +1,18 @@
+{
+    "type": "ItemBridge",
+    "name": "霜石电力桥",
+    "health": 45,
+    "range": 20,
+    "consumes": {"power": 0.1},
+    "researchCost": [
+        "霜石/100",
+        "废钢/80"
+    ],
+    "requirements": [
+        "霜石/14",
+        "废钢/8"
+    ],
+    "category": "distribution",
+    "research": "霜石管道桥",
+    "transportTime": 0.2
+}

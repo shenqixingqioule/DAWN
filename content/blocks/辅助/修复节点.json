@@ -1,0 +1,27 @@
+{
+	"type": "MendProjector",
+	"name": "修复节点",
+	"health": 800,
+	"size": 2,
+	"range": 160,
+	"reload": 60,
+	"healPercent": 20,
+	"phaseBoost": 15,
+	"phaseRangeBoost": 10,
+	"canOverdrive": true,
+	"consumes": {
+		"power": 2.5
+	},
+	"researchCost": [
+  		"霜石/2400",
+        "废钢/1700",
+        "铬/1300"
+	],
+    "requirements": [
+        "霜石/230",
+        "废钢/140",
+        "铬/100"
+    ],
+	"category": "effect",
+	"research": "激光点"
+}

@@ -1,8 +1,6 @@
 {
     "type": "UnitFactory",
     "name": "空军制造厂",
-    "localizedName": "空军制造厂",
-    "description": "可构建空军",
     "size": 3,
     "health": 2000,
     "consumes":{
@@ -27,5 +25,13 @@
       {"item": "废钢", "amount": 15}
     ],
     "category": "units",
-    "research":"陆军制造厂"
+	"research": {
+		"parent": "陆军制造厂",
+		"objectives": [
+			{
+				"type": "OnSector",
+				"preset": "7域军事平台"
+			}
+		]
+	}
 }

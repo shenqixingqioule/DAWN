@@ -1,8 +1,6 @@
 {
     "type": "UnitFactory",
     "name": "陆军制造厂",
-    "localizedName": "陆军制造厂",
-    "description": "可构建陆军",
     "size": 3,
     "health": 2000,
     "consumes":{
@@ -33,5 +31,12 @@
       {"item": "霜石", "amount": 50}
     ],
     "category": "units",
-    "research":"始发"
+	"research": {
+		"parent": "始发",
+		"objectives": [
+			"气压钻",
+            "跳跃",
+            "光棱电力板"
+		]
+	}
 }

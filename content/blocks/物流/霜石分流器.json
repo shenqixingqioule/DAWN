@@ -1,0 +1,16 @@
+{
+    "type": "Router",
+    "name": "霜石分流器",
+    "size": 1,
+    "speed": 10,
+    "health": 110,
+    "itemCapacity": 5,
+	"researchCost": [
+  		"霜石/100"
+	],
+	"requirements": [
+		"霜石/5"
+	],
+    "category": "distribution",
+    "research": "霜石交叉口"
+}

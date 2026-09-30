@@ -1,0 +1,33 @@
+{
+	"type": "naval",
+	"name": "焚化",
+	"speed": 2,
+	"hitSize": 18,
+	"health": 1750,
+	"armor": 5,
+	"drag": 0.1,
+	"accel": 0.1,
+	"rotateSpeed": 4,
+	"faceTarget": false,
+	"immunities": ["freezing"],
+	"research": "海1",
+	"weapons": [
+		{
+			"name": "海攻T2导弹武器",
+			"reload": 155,
+			"x": 0,
+			"y": 0,
+			"rotate": true,
+			"rotateSpeed": 7,
+			"mirror": false,
+			"inaccuracy": 0,
+			"shootSound": "artillery",
+			"bullet": {
+				"smokeEffect": "shootSmallFlame",
+				"immunities": ["freezing"],
+				"keepVelocity": false,
+				"spawnUnit": "海攻T2导弹"
+			}
+		}
+	]
+}

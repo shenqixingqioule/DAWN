@@ -1,0 +1,21 @@
+{
+	"type": "PowerNode",
+	"name": "激光塔",
+	"health": 1200,
+	"size": 3,
+	"maxNodes": 30,
+	"laserRange": 40,
+	"laserScale": 0.5,
+	"research": "激光点",
+	"researchCost": [
+  		"霜石/500",
+		"废钢/400",
+		"铬/350"
+	],
+	"requirements": [
+        "霜石/100",
+		"废钢/80",
+		"铬/60"
+	],
+	"category": "power"
+}

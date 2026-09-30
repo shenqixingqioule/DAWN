@@ -1,0 +1,15 @@
+{
+    "type": "Junction",
+    "name": "霜石交叉口",
+    "health": 100,
+    "size": 1,
+    "speed": 10,
+	"researchCost": [
+  		"霜石/100"
+	],
+	"requirements": [
+		"霜石/5"
+	],
+    "category": "distribution",
+    "research": "霜石传送管"
+}

@@ -1,7 +1,6 @@
 {
 	"name": "气压钻",
 	"type": "Drill",
-	"description": "通过大气压强以挖掘矿物",
 	"size": 3,
 	"health": 320,
 	"tier": 3,

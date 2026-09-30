@@ -1,8 +1,7 @@
 {
 	"type": "ItemTurret",
 	"name": "跳跃",
-	"description": "向敌方射出交叉的炮弹",
-	"health": 500,
+	"health": 350,
 	"size": 1,
 	"reload": 3,
 	"range": 200,

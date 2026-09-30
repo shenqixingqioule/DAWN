@@ -1,7 +1,6 @@
 {
 	"type": "items",
 	"name": "废钢",
-	"description": "废铁压缩的产物",
 	"color": "4A4B53FF",
 	"cost": 1,
 	"hardness": 0,

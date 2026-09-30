@@ -1,0 +1,27 @@
+{
+	"type": "ConsumeGenerator",
+	"name": "凝液转能站",
+	"size": 2,
+	"health": 600,
+	"liquidCapacity": 100,
+	"ItemCapacity": 0,
+	"hasLiquids": true,
+	"outputsPower": true,
+	"powerProduction": 5,
+	"lightColor": "FFFFFFFF",
+	"consumes": {
+		"liquid": "凝液/1"
+	},
+	"researchCost": [
+  		"霜石/1000",
+		"废钢/800",
+		"铬/750"
+	],
+	"requirements": [
+        "霜石/150",
+		"废钢/120",
+		"铬/85"
+	],
+	"category": "power",
+	"research": "废磁发电站"
+}

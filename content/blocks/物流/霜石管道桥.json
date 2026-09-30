@@ -1,0 +1,16 @@
+{
+    "type": "BufferedItemBridge",
+    "name": "霜石管道桥",
+    "health": 135,
+    "size": 1,
+    "range": 6,
+    "transportTime": 1.5,
+    "researchCost": [
+        "霜石/500"
+    ],
+    "requirements": [
+        "霜石/15"
+    ],
+    "category": "distribution",
+    "research": "霜石交叉口"
+}

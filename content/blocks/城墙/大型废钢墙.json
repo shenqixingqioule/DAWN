@@ -1,7 +1,6 @@
 {
 	"name": "大型废钢墙",
 	"type": "Wall",
-	"description": "保护己方建筑，挡下敌方炮弹",
 	"health": 1700,
 	"size": 2,
 	"researchCost": [

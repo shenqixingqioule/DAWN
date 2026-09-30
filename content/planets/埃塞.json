@@ -1,34 +1,51 @@
 {
     "localizedName": "埃塞",
     "mesh": {
-    "type": "NoiseMesh",
-    "planet": "埃塞",
-    "seed": 159,
-    "color1": "00008b",
-    "color2": "1e90ff",
-    "color3": "da70d6",
-    "color4": "9932cc",
-    "divisions": 6,
-    "radius": 1.1,
-    "octaves": 5,
-    "persistence": 1,
-    "scale": 2,
-    "mag": 1
+		"type": "NoiseMesh",
+		"planet": "埃塞",
+		"seed": 159,
+		"color1": "99E7FFFF",
+		"color2": "74C2E8FF",
+		"color3": "6A97D9FF",
+		"color4": "5275A8FF",
+		"divisions": 5,
+		"radius": 1.1,
+		"octaves": 6,
+		"persistence": 0.8,
+		"scale": 2,
+		"mag": 1
     },
     "cloudMesh": {
-        "type": "HexSkyMesh",
-        "planet": "埃塞",
-        "seed": 159,
-        "speed": 0.25,
-        "radius": 0.2,
-        "divisions": 5,
-        "color": "00008b",
-        "octaves": 2,
-        "persistence": 1,
-        "scl": 2,
-        "thresh": 0.45
+		"type": "MultiMesh",
+		"meshes": [
+			{
+				"type": "HexSkyMesh",
+				"planet": "埃塞",
+				"seed": 159,
+				"speed": 0.4,
+				"radius": 0.2,
+				"divisions": 5,
+				"color": "6A97D9FF",
+				"octaves": 2,
+				"persistence": 1,
+				"scl": 2,
+				"thresh": 0.45
+			},
+			{
+				"type": "HexSkyMesh",
+				"planet": "埃塞",
+				"seed": 159,
+				"speed": -0.6,
+				"radius": 0.25,
+				"divisions": 5,
+				"color": "5275A8FF",
+				"octaves": 2,
+				"persistence": 1,
+				"scl": 2,
+				"thresh": 0.45
+			}
+		]
     },
-
 	"generator": {
 		"min": 0,
 		"max": 0,
@@ -50,6 +67,9 @@
 		"ferricChance": 0
 	},
 	"orbitSpacing": 8,
+	"orbitRadius": 135,
+	"orbitTime": 2400,
+	"orbitOffset": 0,
 	"radius": 1.1,
 	"sectorSize": 3,
 	"minZoom": 0.99,
@@ -75,10 +95,9 @@
     "launchCapacityMultiplier": 2,
 	"clearSectorOnLose": true,
 	"allowWaves": true,
-	
-	"allowLaunchToNumbered":false,
-	
-	"defaultCore": "始发",
-	"parent": "sun",
-	"solarSystem": "sun"
+	"allowLaunchToNumbered": false,
+  	"defaultCore": "始发" ,
+	"parent": "纳罗塔",
+	"solarSystem": "纳罗塔",
+	"children": [ "勒维斯" ]
 }

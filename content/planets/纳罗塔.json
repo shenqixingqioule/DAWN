@@ -1,0 +1,31 @@
+{
+    "localizedName": "纳罗塔",
+    "bloom": true,
+    "accessible": false,
+    "alwaysUnlocked": false,
+    "radius": 25,
+    "mesh": {
+        "type": "SunMesh",
+        "planet": "纳罗塔",
+        "divisions": 6,
+        "octaves": 5,
+        "persistence": 0.3,
+        "scl": 1.5,
+        "pow": 1.4,
+        "mag": 1.5,
+        "colorScale": 1.6,
+        "colors": [
+          "FF8800FF",
+          "FF4A00FF",
+          "FF2F00FF"
+        ]
+    },
+    "iconColor": "FFD700",
+    "rotateTime": 600,
+    "solarSystem": "纳罗塔",
+    "visible": true,
+    "orbitRadius": 0,
+    "drawOrbit": false,
+    "orbitTime": 12000,
+    "children": [ "埃塞" ]
+}

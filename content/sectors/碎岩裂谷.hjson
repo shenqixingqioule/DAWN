@@ -11,4 +11,4 @@ research: {
     ]
 }
 difficulty: 4
-alwaysUnlocked: false
+alwaysUnlocked: true

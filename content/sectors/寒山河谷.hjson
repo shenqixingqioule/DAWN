@@ -1,5 +1,5 @@
 planet: 埃塞
-sector: 26
+sector: 30
 research: {
     parent: "寒岩山"
 	objectives: [
@@ -10,4 +10,4 @@ research: {
  	]
 }
 difficulty: 1
-alwaysUnlocked: false
+alwaysUnlocked: true

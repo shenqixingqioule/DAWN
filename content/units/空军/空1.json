@@ -11,7 +11,7 @@
 	"faceTarget": true,
 	"drawMinimap": false,
 	"health": 470,
-	"armor": 2,
+	"armor": 0,
 	"itemCapacity": 0,
 	"research": "空军制造厂",
 	"abilities": [

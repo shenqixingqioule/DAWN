@@ -1,6 +1,7 @@
 {
 	"type": "tank",
 	"name": "进阶",
+	"flying": false,
 	"squareShape": true,
 	"omniMovement": false,
 	"rotateMoveFirst": false,
@@ -9,7 +10,7 @@
 	"hitSize": 9.5,
 	"ammoCapacity": 300,
 	"health": 1200,
-	"armor": 5,
+	"armor": 3,
 	"drag": 0.08,
 	"accel": 0.1,
 	"itemCapacity": 40,

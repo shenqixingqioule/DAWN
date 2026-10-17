@@ -95,7 +95,7 @@
     "launchCapacityMultiplier": 2,
 	"clearSectorOnLose": true,
 	"allowWaves": true,
-	"allowLaunchToNumbered": false,
+	"allowLaunchToNumbered": true,
   	"defaultCore": "始发" ,
 	"parent": "纳罗塔",
 	"solarSystem": "纳罗塔",

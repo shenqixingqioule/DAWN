@@ -4,7 +4,7 @@
 	"speed": 2.4,
 	"hitSize": 18,
 	"health": 800,
-	"armor": 5,
+	"armor": 1,
 	"drag": 0.1,
 	"accel": 0.1,
 	"rotateSpeed": 5,

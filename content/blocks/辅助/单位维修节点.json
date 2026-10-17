@@ -1,0 +1,30 @@
+{
+    "type": "RepairTurret",
+    "name": "单位维修节点",
+    "health": 1200,
+    "size": 2,
+	"researchCost": [
+  		"霜石/2000",
+        "废钢/1570",
+        "铬/1260",
+        "镁晶/750"
+	],
+    "requirements": [
+        "霜石/210",
+        "废钢/130",
+        "铬/80",
+        "镁晶/45"
+    ],
+    "consumes": {
+        "power": 1.5
+    },
+    "range": 24,
+    "repairSpeed": 10,
+    "shootX": 0,
+    "shootY": 16,
+    "repairBlocks": false,
+    "repairUnits": true,
+    "rotateSpeed": 1.2,
+    "category": "units",
+    "research": "修复节点"
+}

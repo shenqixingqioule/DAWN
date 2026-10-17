@@ -1,0 +1,37 @@
+{
+	"name": "冲击钻",
+	"type": "Drill",
+	"size": 4,
+	"health": 740,
+	"tier": 7,
+	"drillTime": 160,
+	"canOverdrive": true,
+	"warmupSpeed": 0.1,
+	"drillEffect": "mineBig",
+	"updateEffect": "mineBig",
+	"rotateSpeed": 8,
+	"drawMineItem": false,
+	"itemCapacity": 95,
+	"liquidCapacity": 20,
+	"consumes": {
+		"power": 3,
+		"liquid": {
+			"liquid": "凝液",
+			"amount": 0.2
+		}
+	},
+	"researchCost": [
+		"霜石/1750",
+		"废钢/1020",
+		"铬/950",
+		"镁晶/790"
+	],
+	"requirements": [
+		"霜石/230",
+		"废钢/190",
+		"铬/175",
+		"镁晶/130"
+	],
+	"category": "production",
+	"research": "气压钻"
+}

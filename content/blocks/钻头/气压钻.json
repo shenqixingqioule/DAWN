@@ -12,6 +12,7 @@
 	"rotateSpeed": 2,
 	"drawMineItem": false,
 	"itemCapacity": 20,
+	"liquidCapacity": 0,
 	"researchCost": [
   		"霜石/60"
 	],

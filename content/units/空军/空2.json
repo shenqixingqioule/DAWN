@@ -12,16 +12,8 @@
 	"drawMinimap": false,
 	"health": 1040,
 	"armor": 2,
-	"engineOffset": 0,
+	"engineOffset": 10,
 	"engineSize": 2,
-	"engines": [
-		{
-			"x": 0,
-			"y": -10,
-			"radius": 4,
-			"rotation": 90
-		}
-	],
 	"itemCapacity": 35,
 	"research": "空1",
 	"abilities": [

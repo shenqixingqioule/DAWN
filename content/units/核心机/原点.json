@@ -9,14 +9,6 @@
 	"drag": 0.05,
 	"engineSize": 2.25,
 	"engineOffset": 7.5,
-	"engines": [
-		{
-			"x": 0,
-			"y": -2,
-			"radius": 2.25,
-			"rotation": 90
-		}
-	],
 	"trailLength": 4,
 	"faceTarget": true,
 	"outlineColor": "2E2F34FF",

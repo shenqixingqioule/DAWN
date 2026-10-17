@@ -1,0 +1,14 @@
+{
+    "name": "新矿物",
+	"type": "none",
+	"inEditor": false,
+	"canPlace": false,
+	"internal": true,
+	"alwaysUnlocked": false,
+	"research": {
+		"parent": "初来乍到",
+		"objectives": [
+            "霜石"
+		]
+	}
+}

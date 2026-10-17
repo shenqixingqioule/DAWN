@@ -3,7 +3,7 @@
 	"name": "废铁",
 	"color": "36363CFF",
 	"cost": 1,
-	"hardness": 0,
+	"hardness": 1,
 	"explosiveness": 0,
 	"radioactivity": 0,
 	"charge": 0,

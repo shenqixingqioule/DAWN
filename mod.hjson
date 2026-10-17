@@ -1,6 +1,16 @@
 name: 破晓
-description: "致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 剧情 & 部分简介\n\n[red[]]请在游玩此MOD前开启双击采矿！\n[red[]]Please enable Double-Tap to Mine before playing this MOD!"
-minGameVersion: 160.5
+description: "\n
+[gray[]]支持语言\n
+ - [red[]]简体中文\n
+[gray[]] - [red[]]English\n\n
+[white[]]致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 部分简介\n
+为了您游玩此MOD拥有更佳的体验，请使用原版Mindustry游玩(不包含MdtX、学术等辅助版本)\n\n
+[red[]]请在游玩此MOD前开启双击采矿！\n
+[red[]]Please enable Double-Tap to Mine before playing this MOD!\n\n
+[gray[]]GitHub开源链接: https://github.com/shenqixingqioule/DAWN"
+minGameVersion: 160.7
 author: 神奇星球了
-version: alpha-0-2-1
+version: alpha-0-2-2
+java: true
+main: ai.Main
 repo: shenqixingqioule/DAWN

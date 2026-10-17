@@ -1,0 +1,9 @@
+{ 
+	"name": "成就",
+	"type": "none",
+	"inEditor": false,
+	"canPlace": false,
+	"internal": true,
+	"alwaysUnlocked": true,
+	"research": "始发"
+}

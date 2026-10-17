@@ -1,6 +1,6 @@
 captureWave: 25
 planet: 埃塞
-sector: 171
+sector: 156
 research: {
     parent: "7域军事平台"
     objectives: [
@@ -11,4 +11,4 @@ research: {
     ]
 }
 difficulty: 4
-alwaysUnlocked: true
+alwaysUnlocked: false

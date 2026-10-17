@@ -1,0 +1,17 @@
+{
+    "name": "初来乍到",
+    "type": "none",
+	"inEditor": false,
+	"canPlace": false,
+	"internal": true,
+    "alwaysUnlocked": false,
+	"research": {
+		"parent": "成就",
+		"objectives": [
+            {
+                "type": "OnSector",
+                "preset": "寒岩山"
+            }
+		]
+	}
+}

@@ -11,6 +11,5 @@ description: "\n
 minGameVersion: 160.7
 author: 神奇星球了
 version: alpha-0-2-2
-java: true
 main: ai.Main
 repo: shenqixingqioule/DAWN

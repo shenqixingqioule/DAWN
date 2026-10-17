@@ -3,13 +3,16 @@ description: "\n
 [gray[]]支持语言\n
  - [red[]]简体中文\n
 [gray[]] - [red[]]English\n\n
-[white[]]致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 部分简介\n
+[white[]]可在GitHub和模组浏览器上下载\n
+致谢\n某个t3小飞机 - 核心蓝图\n白义F-061 - 战役地图 & 部分简介\n
 为了您游玩此MOD拥有更佳的体验，请使用原版Mindustry游玩(不包含MdtX、学术等辅助版本)\n\n
 [red[]]请在游玩此MOD前开启双击采矿！\n
 [red[]]Please enable Double-Tap to Mine before playing this MOD!\n\n
-[gray[]]GitHub开源链接: https://github.com/shenqixingqioule/DAWN"
+[gray[]]若您想游玩alpha-0-2之前的版本，请前往GitHub下载后导入，在模组浏览器下会导致崩溃\n
+GitHub开源链接: https://github.com/shenqixingqioule/DAWN"
 minGameVersion: 160.7
 author: 神奇星球了
 version: alpha-0-2-2
+java: true
 main: ai.Main
 repo: shenqixingqioule/DAWN
